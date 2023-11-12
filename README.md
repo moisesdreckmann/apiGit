@@ -1,6 +1,6 @@
 # Consumindo github por Axios
 
-Como Utilizar:
+Projeto feito com react, javascript utilizando axios para consumo de API.
 
 Insira o nome do usuário e do repositório no campo de busca.
 Clique no botão de busca para encontrar o repositório desejado.
